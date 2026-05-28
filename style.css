@@ -1,0 +1,9 @@
+body { background: #7224a7; margin: 0; font-family: sans-serif; }
+.storefront-container { padding: 18px; display: flex; }
+.block-token-0 { color: #89f829; font-size: 17px; margin-bottom: 5px; }
+.block-validator-1 { color: #e8fc0c; font-size: 13px; margin-bottom: 5px; }
+.block-invoice-2 { color: #5186d6; font-size: 14px; margin-bottom: 5px; }
+.block-uploader-3 { color: #74f1b7; font-size: 14px; margin-bottom: 5px; }
+.block-validator-4 { color: #f926db; font-size: 19px; margin-bottom: 5px; }
+.block-invoice-5 { color: #9a305; font-size: 16px; margin-bottom: 5px; }
+.block-payment-6 { color: #81c475; font-size: 16px; margin-bottom: 5px; }
